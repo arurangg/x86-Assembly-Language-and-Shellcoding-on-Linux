@@ -417,6 +417,7 @@ kan1shka9@dev:~/Desktop/AL$ ld -o HelloWorld HelloWorld.o
 kan1shka9@dev:~/Desktop/AL$ ls
 HelloWorld  HelloWorld.asm  HelloWorld.o
 kan1shka9@dev:~/Desktop/AL$ ./HelloWorld
+Hello World!kan1shka9@dev:~/Desktop/AL$
 
 5.) See the return value of the program
 Hello World!kan1shka9@dev:~/Desktop/AL$ echo $?
