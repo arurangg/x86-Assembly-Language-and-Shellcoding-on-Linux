@@ -29,7 +29,7 @@ _start:
     mov dword [var3], 0xffffffff
     add dword [var3], 0x10
 
-    ; set / clear /complement carry flag
+    ; set / clear / complement carry flag
 
     clc
     stc
