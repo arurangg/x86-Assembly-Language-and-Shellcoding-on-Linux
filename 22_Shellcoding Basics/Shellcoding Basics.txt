@@ -1,6 +1,7 @@
 Shellcoding Basics
 
 http://shell-storm.org/shellcode/
+https://www.exploit-db.com/shellcode/
 
 http://shell-storm.org/shellcode/files/shellcode-827.php
 
