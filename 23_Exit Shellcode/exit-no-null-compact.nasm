@@ -1,4 +1,5 @@
 ; Exit.nasm
+; exit shellcode with no return value
 
 global _start
 
