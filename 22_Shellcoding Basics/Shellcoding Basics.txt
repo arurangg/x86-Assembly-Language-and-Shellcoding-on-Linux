@@ -1,5 +1,7 @@
 Shellcoding Basics
 
+http://shell-storm.org/shellcode/
+
 http://shell-storm.org/shellcode/files/shellcode-827.php
 
 1.) Compile and run
